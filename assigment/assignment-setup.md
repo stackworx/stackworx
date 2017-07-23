@@ -18,6 +18,11 @@ the assignment we would like to go through the commits to understand the thinkin
 
 Please create an account on either [Bitbucket](https://bitbucket.org/) or [GitHub](https://github.com/) and place your repository there. Bitbucket allows you to create free private repos
 
+### IDE
+
+We recommend using [Webstorm](https://www.jetbrains.com/webstorm/) but you are
+free to use the IDE of your choice. 
+
 ### Project Setup
 
 #### Install Required Tools
