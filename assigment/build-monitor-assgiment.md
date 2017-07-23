@@ -37,7 +37,7 @@ This should open the project in your browser. If it does not navigate to [localh
 
 ### Bonus Requirements:
  * Use flex box to make the server blocks size dynamically (E.g. let the user pick the number of rows and columns)
- * Implement a method to group and differentiate environments, e.g. production vs testing
+ * Implement a method to group and different environments, e.g. production vs testing
  * Fire all health checks simultaneously, not sequentially
 
 ### Hints
