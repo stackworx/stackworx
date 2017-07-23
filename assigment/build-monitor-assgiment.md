@@ -13,7 +13,7 @@ This is a simple React assignment to test your javascript proficiency.
 First download the project zip from [here](https://drive.google.com/file/d/0BwuuF0OKfFqucG84WkE0TXNjYk0/view?usp=sharing)
 Unzip the file and run the following commands
 
-```
+```bash
 yarn 
 yarn start
 ```
