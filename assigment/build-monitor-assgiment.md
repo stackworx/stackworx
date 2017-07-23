@@ -12,7 +12,7 @@ the current status of a server or environment. With an endpoint like this
 implemented it can be monitored externally and can aid is diagnosing
 the source of issues quickly.
 
-[See](/project-setup) here for initial project setup
+See [here](/project-setup) for initial project setup
 
 This is a simple React assignment to test your javascript proficiency. 
 First download the project zip from [here](https://drive.google.com/file/d/0BwuuF0OKfFqucG84WkE0TXNjYk0/view?usp=sharing).
