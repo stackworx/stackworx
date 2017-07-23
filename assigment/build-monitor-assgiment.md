@@ -4,13 +4,18 @@ title: Build Monitor Assignment
 permalink: project-build-monitor
 ---
 
+## Build Monitor Assignment
+
 The goal of this assignment is to create a simple build monitor.
-It is often convenient to create an endpoint 
+It is often convenient to create an endpoint that can be used to check
+the current status of a server or environment. With an endpoint like this 
+implemented it can be monitored externally and can aid is diagnosing
+the source of issues quickly.
 
 [See](/project-setup) here for initial project setup
 
 This is a simple React assignment to test your javascript proficiency. 
-First download the project zip from [here](https://drive.google.com/file/d/0BwuuF0OKfFqucG84WkE0TXNjYk0/view?usp=sharing)
+First download the project zip from [here](https://drive.google.com/file/d/0BwuuF0OKfFqucG84WkE0TXNjYk0/view?usp=sharing).
 Unzip the file and run the following commands
 
 ```bash
