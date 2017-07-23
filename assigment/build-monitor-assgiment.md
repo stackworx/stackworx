@@ -7,7 +7,7 @@ permalink: project-build-monitor
 The goal of this assignment is to create a simple build monitor.
 It is often convenient to create an endpoint 
 
-[See](/project-setup) for initial project setup
+[See](/project-setup) here for initial project setup
 
 This is a simple React assignment to test your javascript proficiency. 
 First download the project zip from [here](https://drive.google.com/file/d/0BwuuF0OKfFqucG84WkE0TXNjYk0/view?usp=sharing)
