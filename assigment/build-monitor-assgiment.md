@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: default
 title: Build Monitor Assignment
+permalink: project-build-monitor
 ---
 
 The goal of this assignment is to create a simple build monitor.
@@ -23,6 +24,7 @@ This should open the project in your browser. If it does not navigate to [localh
  * The application will receive a list of server health check endpoints.
  * The endpoints should be checked every x seconds (Make this 5 minutes)
  * The endpoint will be an http URL that you must invoke a ```GET``` request on, any return code other than 200 means a health check failure
+ * The check must be done using the request library 
  * The application must store the last endpoint check result
  * Each server must be represented as a block.
  * The health check block will be green for UP and red for DOWN, GREY for other (E.g. request completely failed for example due to not having internet).
