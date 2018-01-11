@@ -42,11 +42,11 @@ This should open the project in your browser. If it does not navigate to [localh
 
 ### Hints
  * Use [httpstat](http://httpstat.us/) to test common failures
+ * You are welcome to display the response from the endpoint but you don't have to process it
  
-
 #### Endpoints
  * [Test 1](https://test.cognition-app.com/api/status)
- * [Test 2](https://ord.dev.stackworx.io/graphql)
- * [Test 3](https://api.durf.dev.stackworx.io/graphql)
+ * [Test 2](https://ord.dev.stackworx.io/health)
+ * [Test 3](https://api.durf.dev.stackworx.io/health)
  * [Test 4](https://prima.run/health)
  * [Test 5](https://stackworx.io/)
