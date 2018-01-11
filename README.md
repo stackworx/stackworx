@@ -1,6 +1,13 @@
 ## Setup
 
-### Ruby
+### Docker
+
+    docker-compose up
+
+Open [localhost:4000](http://localhost:4000) to view the page.
+
+
+### Local Setup
 
 Install [rvm](https://rvm.io/)
 
@@ -19,7 +26,7 @@ Install ruby dependencies
 Run Project
 
     jekyll serve
-    
+
 ### Resources
 
  * [Jekyll](https://jekyllrb.com/docs/quickstart/)
