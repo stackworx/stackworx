@@ -4,6 +4,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: default
 ---
+
 ### Public Documentation Site
 
-* [Technical Assignment](/project-build-monitor)
+- [Frontend Technical Assignment](/frontend-build-monitor-assgiment)
+- [Backend Technical Assignment](/backend-build-monitor-assgiment)
