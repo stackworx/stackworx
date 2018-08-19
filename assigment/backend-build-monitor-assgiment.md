@@ -60,6 +60,6 @@ Send an email to <assignment@stackworx.io> if you get stuck
 
 ### Hints
 
-- se [httpstat](http://httpstat.us/) to simulate failures
+- Use [httpstat](http://httpstat.us/) to simulate failures
 - Graphql Resolvers can be async or return promises
 - Use an IDE that understands typescript
