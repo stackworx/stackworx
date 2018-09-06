@@ -2,6 +2,7 @@
 layout: default
 title: Frontend Build Monitor Assignment
 permalink: frontend-build-monitor-assgiment
+redirect_from: "/project-build-monitor/"
 ---
 
 ## Build Monitor Assignment
